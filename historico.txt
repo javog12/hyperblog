@@ -1,3 +1,5 @@
 Primer archivo con la clase de platzi y git
 
 Se volvio al primer archivo haciendo, git reset xxxxxxxxxxx  --hard
+
+La historia de su vida
